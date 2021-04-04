@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhisheksinghoo
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python and django
-- 💞️ I’m looking to collaborate on ...
 - 📫 9765204870
 
 <!---
